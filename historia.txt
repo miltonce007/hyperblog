@@ -1,5 +1,5 @@
-Estamos haciendo cambios para para practticar un poco mas
+Estamos haciendo cambios al archivo para para practicar un poco mas de git
 
 veamos como resulta
 
-autor Cesar
+autor Cesar Chavez
