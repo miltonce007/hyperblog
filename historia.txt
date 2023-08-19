@@ -2,4 +2,5 @@ Estamos haciendo cambios al archivo para para practicar un poco mas de git
 
 veamos como resulta
 
+En camara parece alto pero no es alto
 autor Cesar Chavez
